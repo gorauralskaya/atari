@@ -10,6 +10,8 @@ System.out.print("Hello null!");
 System.out.print("Goodbye world!");
 System.out.print("Hello world!");
 System.out.print("Goodbye null!");
+System.out.print("Hello world!");
+System.out.print("Goodbye null!");
 
 	}
 
